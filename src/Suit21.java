@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Suit21 {
 
-    private ArrayList<Player> players;
+    private final ArrayList<Player> players;
     private Deck deck;
     private int numPlayers;
     private int numGames;
